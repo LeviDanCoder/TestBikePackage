@@ -1,0 +1,23 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "packageRef" : {
+          "identity" : "swiftpackage",
+          "kind" : "root",
+          "location" : "/Users/dan/StudioProjects/BikeShare/common/swiftpackage",
+          "name" : "swiftpackage"
+        },
+        "path" : "/Users/dan/StudioProjects/BikeShare/common/swiftpackage/BikeShareKit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "BikeShareKit"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 5
+}
